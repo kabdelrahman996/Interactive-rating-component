@@ -15,9 +15,4 @@ This project is a responsive interactive rating component. Users can select a ra
 - CSS
 - JavaScript
 
-## Getting Started
-
-### Prerequisites
-
-You will need a web browser to view and interact with the component.
 
